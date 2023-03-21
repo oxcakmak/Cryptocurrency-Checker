@@ -1,5 +1,5 @@
 # Cryptocurrency-Checker
-PHP cryptocurrency controller class.
+PHP cryptocurrency controller class. Is cryptocurrency valid or not? The name of the cryptocurrency address.
 
 ### Usage:
 include cryptocurrency-checker.php
